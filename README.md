@@ -8,3 +8,6 @@
 
 <h2 align="center">SHOW PRODUCT IN SHOP</h2>
 ![APP](https://github.com/mateuszRadaj/rekrutacja-radajewski/blob/main/assets_readme/screenshot_3.png?raw=true "screenshot")
+
+
+<img src="https://github.com/mateuszRadaj/rekrutacja-radajewski/blob/main/assets_readme/screenshot_3.png">
